@@ -3,3 +3,4 @@ pray untill something happens
 # Dummy text to test 
 COPY target/maven-web-application*.war /usr/local/tomcat/webapps/maven-web-application.war
 fintech cd viv
+knowledge is power
