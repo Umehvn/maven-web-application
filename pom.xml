@@ -98,7 +98,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://18.222.110.218:8081/repository/umeh-release/</url>
-		</releaseRepository>
+		</repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
